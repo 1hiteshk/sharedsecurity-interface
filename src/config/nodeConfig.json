@@ -1,0 +1,14 @@
+{
+  "Cosmos": {
+    "REST": "https://cosmos-api.polkachu.com",
+    "RPC": "https://cosmos-rpc.polkachu.com"
+  },
+  "Stride": {
+    "REST": "https://stride-api.polkachu.com",
+    "RPC": "https://stride-rpc.polkachu.com"
+  },
+  "Neutron": {
+    "REST": "https://rest-kralum.neutron-1.neutron.org",
+    "RPC": "https://rpc-kralum.neutron-1.neutron.org"
+  }
+}
